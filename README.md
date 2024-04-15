@@ -1,6 +1,6 @@
  ♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥
 - 👋 Hi, I’m @McKala1
-- 👀 I’m interested in AI, Tensor Flow, Machine Learning, Keras, Deep Learning, Neural Networks
+- 👀 I’m interested in AI, Tensor Flow, Machine Learning, Keras, Deep Learning, Neural Networks, NLP
 - 🌱 I’m currently learning how to use an ai application from ground up
 - 💞️ I’m looking to collaborate on NLP and transformers 
 - 📫 How to reach me message me on linked in :) https://www.linkedin.com/in/mckala-krauss-017b06199/
